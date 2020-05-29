@@ -1,1 +1,1 @@
-Assignment 3 project server configuration.
+Assignment 3 project server and client side configuration.
